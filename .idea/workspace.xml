@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4828e54-fb69-4ffe-9865-d48ef05b714a" name="Changes" comment="" />
+    <list default="true" id="c4828e54-fb69-4ffe-9865-d48ef05b714a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ statement_refactor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/createStatementData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1장 요약.md" beforeDir="false" afterPath="$PROJECT_DIR$/1장 요약.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +73,8 @@
       <workItem from="1636467831538" duration="119000" />
       <workItem from="1636467964619" duration="4333000" />
       <workItem from="1636472682463" duration="794000" />
+      <workItem from="1636473511863" duration="620000" />
+      <workItem from="1636555604216" duration="6091000" />
     </task>
     <servers />
   </component>
@@ -84,5 +91,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
