@@ -126,13 +126,13 @@ dist
 # Serverless Webpack directories
 .webpack/
 
-# Optional stylelint cache
+# Optional stylelint cacheß
 .stylelintcache
 
 # SvelteKit build / generate output
 .svelte-kit
 
 #intelij config
-.idea
+.idea/
 
 # End of https://www.toptal.com/developers/gitignore/api/node
